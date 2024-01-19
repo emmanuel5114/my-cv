@@ -1,0 +1,50 @@
+<html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emmanuel's personal site</title>
+</head>
+<body>
+<img src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-1/285632670_109359788462696_7332354684716507166_n.jpg?stp=c20.0.200.200a_dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeHhH7NGsqaSbSGwJyNEsw-kgCR6JAXXPk6AJHokBdc-TueAvid08sPnUGdKkakZ0xlmMRIeqzCCaUY3F5D1QY8u&_nc_ohc=FXSaxhfOmlwAX8VTXJw&_nc_ht=scontent-los2-1.xx&oh=00_AfBWg7GQnAVpdpbg9yvQ6UZDbeatlKGiHpHpRNKAyoTx6Q&oe=659E693D" alt="my profile">
+    <h1>Emmanuel Onimisi</h1>
+    I am a graduate of federal university Lokoja. I specialize in mathematics.
+     I have several experience as a teacher and am also developer.Check out my <a href="https://www.facebook.com/profile.php?id=100081660262238">facebook page.</a>
+<hr>
+     <h3>Books and Teachings</h3>
+     <ul>
+        <li>Numerical method of thermoelasticity with finite difference method</li>
+        <li>ODE</li>
+        <LI>PDE</LI>
+     </ul>
+     <h3>Work Experence</h3>
+     <table> 
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>work place</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><p>2017 </p></td>
+                <td> Jodep primary school</td>
+            </tr>
+            <tr>
+                <td><p>2018  </p></td>
+                <td>Tundunwada school</td>
+            </tr>
+            <tr>
+                <td><p>2021  </p></td>
+                <td>classical high school</td>
+            </tr>
+        </tbody>
+     </table>
+     <a href="my hobbies"><H5>Hobbies</H5></a>
+<h5>Contact</h5>
+NO: 08169843880 <br>
+MAIL: emmanuelonimisi5114@gmail.com
+<img src="" alt="">
+
+
+</body>
+</html>
